@@ -4,3 +4,9 @@
 Free Unity editor Addon
 
 ![image](https://user-images.githubusercontent.com/58411554/226178528-45418aed-5734-4c6c-a7fd-8e9bb80eaaef.png)
+
+## Install
+
+- Drag HierarchyAnalys.cs to your project folder
+
+USE IT!
