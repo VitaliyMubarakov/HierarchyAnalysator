@@ -8,5 +8,7 @@ Free Unity editor Addon
 ## Install
 
 - Drag HierarchyAnalys.cs to your project folder
+- Enable Menu: Window -> Analysis -> HierarchyAnalysator
+<img src="https://user-images.githubusercontent.com/58411554/226180685-ecea2bb3-b135-4b05-af30-2ba3ab9447f1.png" width="750">
 
 USE IT!
